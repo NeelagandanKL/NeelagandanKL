@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-07T14:07:54 IST" name="Default suite" finished-at="2024-02-07T14:08:23 IST" duration-ms="29816">
+    <groups>
+    </groups>
+    <test started-at="2024-02-07T14:07:54 IST" name="Default test" finished-at="2024-02-07T14:08:23 IST" duration-ms="29816">
+      <class name="Selenium_SampleProject.Selenium_SampleProject.BrowserLaunch">
+        <test-method signature="browserlauch()[pri:1, instance:Selenium_SampleProject.Selenium_SampleProject.BrowserLaunch@7a220c9a]" started-at="2024-02-07T14:07:54 IST" name="browserlauch" finished-at="2024-02-07T14:08:00 IST" duration-ms="6518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlauch -->
+        <test-method signature="maximizeWindow()[pri:2, instance:Selenium_SampleProject.Selenium_SampleProject.BrowserLaunch@7a220c9a]" started-at="2024-02-07T14:08:00 IST" name="maximizeWindow" finished-at="2024-02-07T14:08:21 IST" duration-ms="20588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeWindow -->
+        <test-method signature="exit()[pri:3, instance:Selenium_SampleProject.Selenium_SampleProject.BrowserLaunch@7a220c9a]" started-at="2024-02-07T14:08:21 IST" name="exit" finished-at="2024-02-07T14:08:23 IST" duration-ms="2458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- Selenium_SampleProject.Selenium_SampleProject.BrowserLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
